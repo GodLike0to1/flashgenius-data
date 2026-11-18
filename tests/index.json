@@ -1,0 +1,1009 @@
+{
+ "v": 1,
+ "updated": "2026-11-18T23:35:35Z",
+ "exams": [
+  {
+   "id": "upsc",
+   "cls": "UPSC Prelims",
+   "n": {
+    "en": "UPSC Prelims",
+    "hi": "UPSC प्रारंभिक परीक्षा"
+   },
+   "pat": {
+    "en": "GS Paper I pattern",
+    "hi": "सामान्य अध्ययन प्रश्नपत्र I का पैटर्न"
+   },
+   "mq": 2,
+   "nq": 0.66,
+   "subs": [
+    "Polity",
+    "History",
+    "Geography",
+    "Economy",
+    "Environment",
+    "Science & Tech",
+    "Current Affairs"
+   ],
+   "tests": [
+    {
+     "id": "ts-upsc-full-01",
+     "k": "full",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true,
+     "mix": [
+      [
+       "Polity",
+       16
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       12
+      ],
+      [
+       "Economy",
+       17
+      ],
+      [
+       "Environment",
+       16
+      ],
+      [
+       "Science & Tech",
+       10
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-upsc-full-02",
+     "k": "full",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "Polity",
+       16
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       12
+      ],
+      [
+       "Economy",
+       17
+      ],
+      [
+       "Environment",
+       16
+      ],
+      [
+       "Science & Tech",
+       10
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-upsc-full-03",
+     "k": "full",
+     "no": 3,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "Polity",
+       16
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       12
+      ],
+      [
+       "Economy",
+       17
+      ],
+      [
+       "Environment",
+       16
+      ],
+      [
+       "Science & Tech",
+       10
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-upsc-full-04",
+     "k": "full",
+     "no": 4,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "Polity",
+       16
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       12
+      ],
+      [
+       "Economy",
+       17
+      ],
+      [
+       "Environment",
+       16
+      ],
+      [
+       "Science & Tech",
+       10
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-upsc-full-05",
+     "k": "full",
+     "no": 5,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "Polity",
+       16
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       12
+      ],
+      [
+       "Economy",
+       17
+      ],
+      [
+       "Environment",
+       16
+      ],
+      [
+       "Science & Tech",
+       10
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-upsc-polity-01",
+     "k": "sec",
+     "sub": "Polity",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-polity-02",
+     "k": "sec",
+     "sub": "Polity",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-history-01",
+     "k": "sec",
+     "sub": "History",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-history-02",
+     "k": "sec",
+     "sub": "History",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-geography-01",
+     "k": "sec",
+     "sub": "Geography",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-geography-02",
+     "k": "sec",
+     "sub": "Geography",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-economy-01",
+     "k": "sec",
+     "sub": "Economy",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-economy-02",
+     "k": "sec",
+     "sub": "Economy",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-environment-01",
+     "k": "sec",
+     "sub": "Environment",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-environment-02",
+     "k": "sec",
+     "sub": "Environment",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-science-tech-01",
+     "k": "sec",
+     "sub": "Science & Tech",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true
+    },
+    {
+     "id": "ts-upsc-science-tech-02",
+     "k": "sec",
+     "sub": "Science & Tech",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false
+    },
+    {
+     "id": "ts-upsc-ca-2026-09",
+     "k": "sec",
+     "sub": "Current Affairs",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true,
+     "t": {
+      "en": "September 2026",
+      "hi": "सितंबर 2026"
+     }
+    },
+    {
+     "id": "ts-upsc-ca-2026-10",
+     "k": "sec",
+     "sub": "Current Affairs",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "t": {
+      "en": "October 2026",
+      "hi": "अक्टूबर 2026"
+     }
+    },
+    {
+     "id": "ts-maps-01",
+     "k": "map",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-02",
+     "k": "map",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-03",
+     "k": "map",
+     "no": 3,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-04",
+     "k": "map",
+     "no": 4,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-05",
+     "k": "map",
+     "no": 5,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    }
+   ]
+  },
+  {
+   "id": "uppcs",
+   "cls": "UPPCS Prelims",
+   "n": {
+    "en": "UPPCS Prelims",
+    "hi": "UPPCS प्रारंभिक परीक्षा"
+   },
+   "pat": {
+    "en": "GS Paper I pattern",
+    "hi": "सामान्य अध्ययन प्रश्नपत्र I का पैटर्न"
+   },
+   "mq": 1.3333,
+   "nq": 0.4444,
+   "subs": [
+    "History",
+    "Geography",
+    "Polity",
+    "Economy",
+    "General Science",
+    "Current Affairs",
+    "UP Special"
+   ],
+   "tests": [
+    {
+     "id": "ts-uppcs-full-01",
+     "k": "full",
+     "no": 1,
+     "q": 150,
+     "min": 120,
+     "free": true,
+     "mix": [
+      [
+       "History",
+       25
+      ],
+      [
+       "Geography",
+       22
+      ],
+      [
+       "Polity",
+       22
+      ],
+      [
+       "Economy",
+       20
+      ],
+      [
+       "General Science",
+       22
+      ],
+      [
+       "Current Affairs",
+       19
+      ],
+      [
+       "UP Special",
+       20
+      ]
+     ],
+     "maps": 6
+    },
+    {
+     "id": "ts-uppcs-full-02",
+     "k": "full",
+     "no": 2,
+     "q": 150,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "History",
+       25
+      ],
+      [
+       "Geography",
+       22
+      ],
+      [
+       "Polity",
+       22
+      ],
+      [
+       "Economy",
+       20
+      ],
+      [
+       "General Science",
+       22
+      ],
+      [
+       "Current Affairs",
+       19
+      ],
+      [
+       "UP Special",
+       20
+      ]
+     ],
+     "maps": 6
+    },
+    {
+     "id": "ts-uppcs-full-03",
+     "k": "full",
+     "no": 3,
+     "q": 150,
+     "min": 120,
+     "free": false,
+     "mix": [
+      [
+       "History",
+       25
+      ],
+      [
+       "Geography",
+       22
+      ],
+      [
+       "Polity",
+       22
+      ],
+      [
+       "Economy",
+       20
+      ],
+      [
+       "General Science",
+       22
+      ],
+      [
+       "Current Affairs",
+       19
+      ],
+      [
+       "UP Special",
+       20
+      ]
+     ],
+     "maps": 6
+    },
+    {
+     "id": "ts-maps-01",
+     "k": "map",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-02",
+     "k": "map",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-03",
+     "k": "map",
+     "no": 3,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-04",
+     "k": "map",
+     "no": 4,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-05",
+     "k": "map",
+     "no": 5,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    }
+   ]
+  },
+  {
+   "id": "ras",
+   "cls": "RAS Prelims",
+   "n": {
+    "en": "RAS Prelims",
+    "hi": "RAS प्रारंभिक परीक्षा"
+   },
+   "pat": {
+    "en": "General Knowledge and General Science pattern",
+    "hi": "सामान्य ज्ञान एवं सामान्य विज्ञान का पैटर्न"
+   },
+   "mq": 1.3333,
+   "nq": 0.4444,
+   "subs": [
+    "Rajasthan Special",
+    "History",
+    "Geography",
+    "Polity",
+    "Economy",
+    "General Science",
+    "Reasoning & Numeracy",
+    "Current Affairs"
+   ],
+   "tests": [
+    {
+     "id": "ts-ras-full-01",
+     "k": "full",
+     "no": 1,
+     "q": 150,
+     "min": 180,
+     "free": true,
+     "mix": [
+      [
+       "Rajasthan Special",
+       40
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       14
+      ],
+      [
+       "Polity",
+       16
+      ],
+      [
+       "Economy",
+       15
+      ],
+      [
+       "General Science",
+       16
+      ],
+      [
+       "Reasoning & Numeracy",
+       20
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-ras-full-02",
+     "k": "full",
+     "no": 2,
+     "q": 150,
+     "min": 180,
+     "free": false,
+     "mix": [
+      [
+       "Rajasthan Special",
+       40
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       14
+      ],
+      [
+       "Polity",
+       16
+      ],
+      [
+       "Economy",
+       15
+      ],
+      [
+       "General Science",
+       16
+      ],
+      [
+       "Reasoning & Numeracy",
+       20
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-ras-full-03",
+     "k": "full",
+     "no": 3,
+     "q": 150,
+     "min": 180,
+     "free": false,
+     "mix": [
+      [
+       "Rajasthan Special",
+       40
+      ],
+      [
+       "History",
+       15
+      ],
+      [
+       "Geography",
+       14
+      ],
+      [
+       "Polity",
+       16
+      ],
+      [
+       "Economy",
+       15
+      ],
+      [
+       "General Science",
+       16
+      ],
+      [
+       "Reasoning & Numeracy",
+       20
+      ],
+      [
+       "Current Affairs",
+       14
+      ]
+     ],
+     "maps": 5
+    },
+    {
+     "id": "ts-maps-01",
+     "k": "map",
+     "no": 1,
+     "q": 100,
+     "min": 120,
+     "free": true,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-02",
+     "k": "map",
+     "no": 2,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-03",
+     "k": "map",
+     "no": 3,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-04",
+     "k": "map",
+     "no": 4,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    },
+    {
+     "id": "ts-maps-05",
+     "k": "map",
+     "no": 5,
+     "q": 100,
+     "min": 120,
+     "free": false,
+     "plus": true,
+     "mq": 2,
+     "nq": 0.66
+    }
+   ]
+  },
+  {
+   "id": "ugc",
+   "cls": "UGC NET",
+   "n": {
+    "en": "UGC NET Paper 1",
+    "hi": "UGC NET प्रश्नपत्र 1"
+   },
+   "pat": {
+    "en": "Paper 1 pattern",
+    "hi": "प्रश्नपत्र 1 का पैटर्न"
+   },
+   "mq": 2,
+   "nq": 0,
+   "subs": [
+    "Paper 1"
+   ],
+   "tests": [
+    {
+     "id": "ts-ugc-full-01",
+     "k": "full",
+     "no": 1,
+     "q": 50,
+     "min": 60,
+     "free": true,
+     "mix": [
+      [
+       "Paper 1",
+       50
+      ]
+     ],
+     "units": [
+      [
+       "Unit 1: Teaching Aptitude",
+       5
+      ],
+      [
+       "Unit 2: Research Aptitude",
+       5
+      ],
+      [
+       "Unit 3: Comprehension",
+       5
+      ],
+      [
+       "Unit 4: Communication",
+       5
+      ],
+      [
+       "Unit 5: Mathematical Reasoning and Aptitude",
+       5
+      ],
+      [
+       "Unit 6: Logical Reasoning",
+       5
+      ],
+      [
+       "Unit 7: Data Interpretation",
+       5
+      ],
+      [
+       "Unit 8: Information and Communication Technology (ICT)",
+       5
+      ],
+      [
+       "Unit 9: People, Development and Environment",
+       5
+      ],
+      [
+       "Unit 10: Higher Education System",
+       5
+      ]
+     ]
+    },
+    {
+     "id": "ts-ugc-full-02",
+     "k": "full",
+     "no": 2,
+     "q": 50,
+     "min": 60,
+     "free": false,
+     "mix": [
+      [
+       "Paper 1",
+       50
+      ]
+     ],
+     "units": [
+      [
+       "Unit 1: Teaching Aptitude",
+       5
+      ],
+      [
+       "Unit 2: Research Aptitude",
+       5
+      ],
+      [
+       "Unit 3: Comprehension",
+       5
+      ],
+      [
+       "Unit 4: Communication",
+       5
+      ],
+      [
+       "Unit 5: Mathematical Reasoning and Aptitude",
+       5
+      ],
+      [
+       "Unit 6: Logical Reasoning",
+       5
+      ],
+      [
+       "Unit 7: Data Interpretation",
+       5
+      ],
+      [
+       "Unit 8: Information and Communication Technology (ICT)",
+       5
+      ],
+      [
+       "Unit 9: People, Development and Environment",
+       5
+      ],
+      [
+       "Unit 10: Higher Education System",
+       5
+      ]
+     ]
+    },
+    {
+     "id": "ts-ugc-full-03",
+     "k": "full",
+     "no": 3,
+     "q": 50,
+     "min": 60,
+     "free": false,
+     "mix": [
+      [
+       "Paper 1",
+       50
+      ]
+     ],
+     "units": [
+      [
+       "Unit 1: Teaching Aptitude",
+       5
+      ],
+      [
+       "Unit 2: Research Aptitude",
+       5
+      ],
+      [
+       "Unit 3: Comprehension",
+       5
+      ],
+      [
+       "Unit 4: Communication",
+       5
+      ],
+      [
+       "Unit 5: Mathematical Reasoning and Aptitude",
+       5
+      ],
+      [
+       "Unit 6: Logical Reasoning",
+       5
+      ],
+      [
+       "Unit 7: Data Interpretation",
+       5
+      ],
+      [
+       "Unit 8: Information and Communication Technology (ICT)",
+       5
+      ],
+      [
+       "Unit 9: People, Development and Environment",
+       5
+      ],
+      [
+       "Unit 10: Higher Education System",
+       5
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
