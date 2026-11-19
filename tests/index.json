@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": "2026-11-18T23:35:35Z",
+ "updated": "2026-11-19T18:17:48Z",
  "exams": [
   {
    "id": "upsc",
@@ -70,7 +70,6 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "Polity",
@@ -101,7 +100,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-upsc-full-03",
@@ -109,7 +109,6 @@
      "no": 3,
      "q": 100,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "Polity",
@@ -140,7 +139,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-upsc-full-04",
@@ -148,7 +148,6 @@
      "no": 4,
      "q": 100,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "Polity",
@@ -179,7 +178,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-upsc-full-05",
@@ -187,7 +187,6 @@
      "no": 5,
      "q": 100,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "Polity",
@@ -218,7 +217,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-upsc-polity-01",
@@ -227,7 +227,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-polity-02",
@@ -236,7 +236,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-history-01",
@@ -245,7 +245,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-history-02",
@@ -254,7 +254,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-geography-01",
@@ -263,7 +263,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-geography-02",
@@ -272,7 +272,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-economy-01",
@@ -281,7 +281,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-economy-02",
@@ -290,7 +290,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-environment-01",
@@ -299,7 +299,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-environment-02",
@@ -308,7 +308,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-science-tech-01",
@@ -317,7 +317,7 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true
+     "plus": true
     },
     {
      "id": "ts-upsc-science-tech-02",
@@ -326,7 +326,7 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false
+     "plus": true
     },
     {
      "id": "ts-upsc-ca-2026-09",
@@ -335,11 +335,11 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true,
      "t": {
       "en": "September 2026",
       "hi": "सितंबर 2026"
-     }
+     },
+     "plus": true
     },
     {
      "id": "ts-upsc-ca-2026-10",
@@ -348,11 +348,11 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false,
      "t": {
       "en": "October 2026",
       "hi": "अक्टूबर 2026"
-     }
+     },
+     "plus": true
     },
     {
      "id": "ts-maps-01",
@@ -360,7 +360,6 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -371,7 +370,6 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -382,7 +380,6 @@
      "no": 3,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -393,7 +390,6 @@
      "no": 4,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -404,7 +400,6 @@
      "no": 5,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -479,7 +474,6 @@
      "no": 2,
      "q": 150,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "History",
@@ -510,7 +504,8 @@
        20
       ]
      ],
-     "maps": 6
+     "maps": 6,
+     "plus": true
     },
     {
      "id": "ts-uppcs-full-03",
@@ -518,7 +513,6 @@
      "no": 3,
      "q": 150,
      "min": 120,
-     "free": false,
      "mix": [
       [
        "History",
@@ -549,7 +543,8 @@
        20
       ]
      ],
-     "maps": 6
+     "maps": 6,
+     "plus": true
     },
     {
      "id": "ts-maps-01",
@@ -557,7 +552,6 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -568,7 +562,6 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -579,7 +572,6 @@
      "no": 3,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -590,7 +582,6 @@
      "no": 4,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -601,7 +592,6 @@
      "no": 5,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -681,7 +671,6 @@
      "no": 2,
      "q": 150,
      "min": 180,
-     "free": false,
      "mix": [
       [
        "Rajasthan Special",
@@ -716,7 +705,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-ras-full-03",
@@ -724,7 +714,6 @@
      "no": 3,
      "q": 150,
      "min": 180,
-     "free": false,
      "mix": [
       [
        "Rajasthan Special",
@@ -759,7 +748,8 @@
        14
       ]
      ],
-     "maps": 5
+     "maps": 5,
+     "plus": true
     },
     {
      "id": "ts-maps-01",
@@ -767,7 +757,6 @@
      "no": 1,
      "q": 100,
      "min": 120,
-     "free": true,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -778,7 +767,6 @@
      "no": 2,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -789,7 +777,6 @@
      "no": 3,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -800,7 +787,6 @@
      "no": 4,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -811,7 +797,6 @@
      "no": 5,
      "q": 100,
      "min": 120,
-     "free": false,
      "plus": true,
      "mq": 2,
      "nq": 0.66
@@ -897,7 +882,6 @@
      "no": 2,
      "q": 50,
      "min": 60,
-     "free": false,
      "mix": [
       [
        "Paper 1",
@@ -945,7 +929,8 @@
        "Unit 10: Higher Education System",
        5
       ]
-     ]
+     ],
+     "plus": true
     },
     {
      "id": "ts-ugc-full-03",
@@ -953,7 +938,6 @@
      "no": 3,
      "q": 50,
      "min": 60,
-     "free": false,
      "mix": [
       [
        "Paper 1",
@@ -1001,7 +985,8 @@
        "Unit 10: Higher Education System",
        5
       ]
-     ]
+     ],
+     "plus": true
     }
    ]
   }
